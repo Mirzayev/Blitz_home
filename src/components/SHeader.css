@@ -1,0 +1,13 @@
+.header{
+    background-image: url('../images/background.png');
+    background-size: cover;
+
+}
+
+
+@media screen and (max-width: 400px){
+.header{
+    height: 110vh;
+}
+
+}
